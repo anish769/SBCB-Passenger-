@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":flutter_phone_direct_caller" external.linked.project.path="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.yanisalfian.flutterphonedirectcaller" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":flutter_phone_direct_caller" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.2.0" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/intermediates/compile_r_class_jar/debug/R.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/9612c607834640212389a25d9d5d3174/jetified-flutter_embedding_debug-1.0.0-bd539267b42051b0da3d16ffa8f48949dce8aa8f.jar;C:/Users/bhaib/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/a4e2550201e51611035e64f39d4d32bc/fragment-1.1.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/a37c6416178142a136373107adcd9f14/viewpager-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/d65ef80d626c99f5eebbbb949af1f6cc/loader-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/d09b504e0c05da82978dcc1cdd208496/jetified-activity-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/bb46f918d8838555e195d17140f6a5be/customview-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/cccf797ced4ebcfd48daa5f61e932427/core-1.6.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/0eac8c37e015faacb4ec4a57e7875c5a/lifecycle-runtime-2.2.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/ca3699aadab9c73c17dc1c141c127a4a/jetified-savedstate-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/496620e56913cdb35b37b510ddb582d5/lifecycle-livedata-2.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/c1273c2620db1f8c9a0cc5cd53ff22bb/lifecycle-livedata-core-2.0.0-api.jar;C:/Users/bhaib/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/cd3cd762cc555f297d5f6198d4ffcd73/core-runtime-2.0.0-api.jar;C:/Users/bhaib/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/fd812f05106941ad7326da28d93b651b/versionedparcelable-1.1.1-api.jar;C:/Users/bhaib/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/c51d73d31daa8b6c51d6def34e123761/lifecycle-viewmodel-2.1.0-api.jar;C:/Users/bhaib/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/dbcdfc83d9bd26151307f9a3041cba71/jetified-annotation-experimental-1.1.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/a6133613e7f57efaf8e279c230b39913/jetified-tracing-1.0.0-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/c0ba30c2b519489d55f7d210223cf681/jetified-window-java-1.0.0-beta04-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/abe8946c6751f9d720320ce77205c82d/jetified-window-1.0.0-beta04-api.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/99de2c960fdafe18d888b3245b397402/jetified-kotlinx-coroutines-android-1.5.2.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/8002425cf2cd81ae172746bdadb6476f/jetified-kotlinx-coroutines-core-jvm-1.5.2.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/fad4d8b72e49376ce6b6cfac86fccf84/jetified-kotlin-stdlib-jdk8-1.5.30.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/03561980d6fb66cd18b91102be4b870b/jetified-kotlin-stdlib-jdk7-1.5.30.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/11f65159afcad37033e089642ead3de2/jetified-kotlin-stdlib-1.5.31.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/52db68dceaa0279e2cc07ba075a1122f/jetified-annotations-13.0.jar;C:/Users/bhaib/.gradle/caches/transforms-2/files-2.1/fe5b2ed2a2b7b3b126d85ee6e8d923ea/jetified-kotlin-stdlib-common-1.5.31.jar;C:/Users/bhaib/AppData/Local/Android/sdk/platforms/android-31/android.jar;C:/Users/bhaib/AppData/Local/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="flutter_phone_direct_caller_debug" />
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android/src/main/res;file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android/src/debug/res;file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android/src/androidTest/res;file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_phone_direct_caller/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android">
+      <excludeFolder url="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.1.0/android/.gradle" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-bd539267b42051b0da3d16ffa8f48949dce8aa8f" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.5.30" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.5.31" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.5.31" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window-java:1.0.0-beta04@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.window:window:1.0.0-beta04@aar" level="project" />
+  </component>
+</module>
